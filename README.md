@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammad Amil
+### 🚀 Frontend Web Developer
 
-<!--
-**MohammadAmil2005/MohammadAmil2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I build modern, responsive and user-friendly websites  
+🌱 Currently learning: React.js  
+⚡ Always improving my coding skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React (Learning)
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🔹 Portfolio Website
+- 🌐 Live: (add link)
+- 💻 Code: (add repo link)
+- Tech: HTML, CSS, JavaScript
+
+### 🔹 E-commerce Website
+- 🌐 Live: (add link)
+- 💻 Code: (add repo link)
+- Tech: React, API
+
+### 🔹 Weather App
+- 🌐 Live: (add link)
+- 💻 Code: (add repo link)
+- Tech: JavaScript, API
+
+---
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=MohammadAmil2005&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: (add link)
+- Portfolio: (add link)
